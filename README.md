@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/vc-rakesh/vc-rakesh/blob/master/devcard.svg" width="400" alt="Rakesh Sojitra's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/vc-rakesh/vc-rakesh/blob/main/devcard.svg" width="400" alt="Rakesh Sojitra's Dev Card"/></a>
 <!--
 **vc-rakesh/vc-rakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
